@@ -1,0 +1,126 @@
+{
+  "desktop_project_cards": 15,
+  "desktop_website_cards": 4,
+  "result_count_text": "15 projects",
+  "hero_title": "Jorge Armando Gómez Aca",
+  "header_wordmark": "Jorge Gómez",
+  "hero_has_full_stack_title": false,
+  "experience_hauz_role": "Full Stack Developer",
+  "page_errors": [],
+  "horizontal_overflow_desktop": false,
+  "website_dialog_open": true,
+  "website_dialog_title": "The Line Production Lab",
+  "website_dialog_image_count": 1,
+  "project_checks": [
+    {
+      "id": "hauz-airdome-tech-capital-puebla",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "AirDome · Tech Capital Puebla"
+    },
+    {
+      "id": "hauz-airdome-coatzacoalcos-01",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "AirDome · Coatzacoalcos 01"
+    },
+    {
+      "id": "hauz-airdome-coatzacoalcos-02",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "AirDome · Coatzacoalcos 02"
+    },
+    {
+      "id": "hauz-airdome-coatzacoalcos-03",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "AirDome · Coatzacoalcos 03"
+    },
+    {
+      "id": "hauz-airpark",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "AirPark"
+    },
+    {
+      "id": "the-line-aerie",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "Aerie · Brand Experience"
+    },
+    {
+      "id": "the-line-lexus",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "Lexus · Brand Experience"
+    },
+    {
+      "id": "the-line-mercedes-benz",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "Mercedes-Benz · Brand Experience"
+    },
+    {
+      "id": "the-line-flamin-hot",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "Flamin’ Hot · Brand Experience"
+    },
+    {
+      "id": "motorola-ar",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "Motorola · AR Color Experience"
+    },
+    {
+      "id": "nissan-vr",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "Nissan · VR Experience"
+    },
+    {
+      "id": "forklift-environment",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "Forklift Simulation · Environment"
+    },
+    {
+      "id": "forklift-vr-training",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "Forklift Simulation · VR Training"
+    },
+    {
+      "id": "architectural-visualization-reel",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "Architectural Visualization · Reel 2020"
+    },
+    {
+      "id": "residential-virtual-tour",
+      "videos": 1,
+      "media_controls_hidden": true,
+      "title": "Residential Virtual Tour"
+    }
+  ],
+  "filter_counts": {
+    "all": 15,
+    "hauz": 5,
+    "data-centers": 5,
+    "the-line": 4,
+    "independent": 6
+  },
+  "mobile_project_cards": 15,
+  "mobile_website_cards": 4,
+  "horizontal_overflow_mobile": false,
+  "mobile_page_errors": [],
+  "referenced_media_paths": 45,
+  "missing_media_paths": [],
+  "full_mp4_count": 15,
+  "preview_mp4_count": 15,
+  "poster_count": 15,
+  "all_projects_single_video": true,
+  "tlp_delay_14000": true,
+  "clairvant_points_to_login": true,
+  "hauz_local_image": true
+}

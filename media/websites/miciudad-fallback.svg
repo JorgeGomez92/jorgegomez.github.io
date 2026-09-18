@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#f4f6f8"/>
+  <rect x="70" y="90" width="1060" height="620" rx="24" fill="#fff" stroke="#d9e0e8"/>
+  <text x="120" y="260" font-family="Arial, sans-serif" font-size="66" font-weight="700" fill="#111318">Mi Ciudad Inteligente</text>
+  <text x="120" y="345" font-family="Arial, sans-serif" font-size="28" fill="#646b75">Live website capture loads when an internet connection is available.</text>
+  <text x="120" y="620" font-family="Arial, sans-serif" font-size="24" fill="#075cff">miciudadinteligente.com</text>
+</svg>
