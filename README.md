@@ -1,4 +1,4 @@
-# Jorge Gómez — Portfolio v7
+# Jorge Gómez — Portfolio
 
 A clean English portfolio for web development, Unreal Engine and interactive virtual-environment work.
 
